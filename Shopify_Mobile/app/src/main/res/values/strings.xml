@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shopify_Mobile</string>
+    <string name="button_text">Get Results</string>
+    <string name="get_results">Get Results</string>
+    <string name="napleon_message">Total spent by Napoleon Batz:</string>
+    <string name="bags_message">Total Awesome Bronze Bags sold:</string>
+    <string name="clear">clear</string>
+
+
+</resources>
